@@ -43,15 +43,15 @@ textarea{
     color:white; 
   }
   
-  .div4-{
-    position: relative;
-    width:25%;
-    margin-left: 5%;
-  
-    float: left;
-    padding: 30px;
-    text-align: center;
-  }
+    .div4-{
+      position: relative;
+      width:25%;
+      margin-left: 5%;
+    
+      float: left;
+      padding: 30px;
+      text-align: center;
+    }
   .div4- h3{
     padding: 5px 30px 40px 30px  ;
     font-weight: bold;

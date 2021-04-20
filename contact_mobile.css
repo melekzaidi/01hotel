@@ -1,0 +1,64 @@
+*{box-sizing: border-box; padding: 0; margin: 0;}
+#contact{
+    color:rgb(255, 106, 0);
+  background-color: #696969;}
+  .div2 h1{
+      position: relative;
+      color: black;
+      font-weight: bold;
+      font-size: 200%;
+      font-family: Arial, Helvetica, sans-serif;
+left: 9%;
+padding: 5% 0px 0px 10px;
+  }
+  form{
+    position: relative;
+    left: 10%;
+    text-align: left ; 
+    font-size: 100%;
+    font-weight: normal;
+    padding: 5% 3%;
+
+}
+form p{
+    padding: 0px 0px 30px 0px;
+}
+.input ,textarea{
+  width: 80%;
+  height: 5vh;
+margin: 2% 0px;    border: rgb(207, 209, 204) solid 2px;
+}
+textarea{
+    height: 10vh;
+}
+.btn{
+    width: 25%;
+    font-size: 120%;
+    height: 5vh ;
+}    
+.div4{
+    height: 30vh ;
+    background-color:#696969;
+    color:white; 
+  }
+  .div4-{
+    position: relative;
+    width:25%;
+    margin-left: 5%;
+  
+    float: left;
+    padding: 5%;
+    text-align: center;
+  }
+  .div4- h3{
+    padding:20% 10% ;
+    font-weight: bold;
+    font-size: 120%;
+    }
+    .div4- p{
+        line-height: 1.6em ; 
+        font-size: 100%;
+      }
+      .fa-color{
+        color: white;
+    }

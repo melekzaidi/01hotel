@@ -10,6 +10,7 @@
     
    font-size: 25px;
 }
+.btn a{text-decoration: none; color: white;}
 .enjoy_p{
   color:rgb(231, 169, 36)
 }
@@ -60,7 +61,6 @@
         
       padding-right: 7%;
   }
-  /* Change the link color to #111 (black) on hover */
   #home{
     color:rgb(255, 106, 0);
   background-color: #696969;}

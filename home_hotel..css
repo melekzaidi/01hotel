@@ -34,16 +34,16 @@ left: 10%;
 }
 
 .center_element p{
-  padding:20PX 50px;
+  padding:10px 50px;
 }
-.div_2_2{ color: white;
-  font-size: 20px;
-  right: auto;
+  .div_2_2{ color: white;
+    font-size: 20px;
+    right: auto;
 
-  font-family: Arial, Helvetica, sans-serif;
-  padding: 25px 15px ; 
-  line-height: 1.6em;
-}
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 25px 15px ; 
+    line-height: 1.6em
+  }
 
 
 img{
@@ -70,7 +70,7 @@ height: 450px;
 }
 .div3_2_1{
   position:relative;
-  top:15%;
+  top:5%;
 }
 .div3_heading{
   color: white;
@@ -78,9 +78,9 @@ height: 450px;
   font-weight: bold;
   font-size: 30px;
   font-family: Arial, Helvetica, sans-serif;
-  padding:0px 20px 50px 20px;
+  padding:0px 20px 20px 20px;
 }
-
+#read a{color:black ; text-decoration: none;}
 #read{
   background-color: white;
   color: black;
@@ -97,20 +97,20 @@ height: 450px;
 min-height: 100%;
 min-width: 50%;
 }
-.div4{
-  height: 200px ;
-  
-}
+  .div4{
+    height: 200px ;
+    
+  }
 
-.div4-{
-  position: relative;
-  width: 33.3%;
+  .div4-{
+    position: relative;
+    width: 33.3%;
 
-  background-color: aliceblue;
-  float: left;
-  padding: 30px;
-  text-align: center;
-}
+    background-color: aliceblue;
+    float: left;
+    padding: 30px;
+    text-align: center;
+  }
 .div4- h3{
   padding: 40px 30px ;
   font-weight: bold;

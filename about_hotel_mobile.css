@@ -1,0 +1,97 @@
+#about{
+    color:rgb(255, 106, 0);
+  background-color: #696969;} 
+  .div2
+  {
+      width: 100%;     position: relative;
+      color:black;
+      height: 400px;
+      background-color: blanchedalmond;
+  }
+  .div2_1{
+    position: relative;
+       width: 60%;
+       float: left;
+       padding: 5% 3%;
+  
+   }
+   .div2_1 h1{
+    padding: 5% 3%;
+    font-weight: bold;
+    font-size: 175%;
+    font-family: Arial, Helvetica, sans-serif;
+
+ }
+.div2_1 p{
+    padding: 5% 3%;
+   line-height: 1;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+ }
+ .div2_2{
+position:relative;
+width: 40%;
+float: right;
+
+ }
+ img{
+    position: relative;
+    top: 5vh;
+    left: 0px;
+    clip-path: circle();
+    height: 40vh;
+    width: 90%; 
+  }
+  .div3{
+    background-image: url("mobile_img/test-bg.jpg") ;
+    background-repeat:no-repeat ; 
+    background-size: cover  ;
+    width: 100%;
+    height: 600px;}
+    .div3 h1{
+        position: relative;
+        text-align: center;
+        top: 10%;
+        padding: 30px 15px ;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 40px;
+        font-weight: bold;
+        color: white;   
+    }
+    .div3_1{
+        background-color: blanchedalmond;
+    height: 150px;    }
+    .div3_1{
+        position: relative;
+        top: 50px;
+        width: 80%;
+        margin: 10% 10%;
+        border-radius: 10px;
+       
+
+    }
+    .div3_1_1{
+        position:relative;
+        float: left;
+        width: 15%;
+
+    }
+    .div3_1_1 img{
+        position: relative;
+        top: 10px    ;
+        left: 10%;
+        height: 100%;
+        width: 150%;
+    }
+    .div3_1_2{
+        width: 70%;
+        float: right;
+    }
+    .div3_1_2 p{
+        position: relative;
+       padding: 5% 3% ;
+       color: #333;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 80%;
+    }
