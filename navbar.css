@@ -97,9 +97,10 @@
   }
   .btn{
     border:none;
-    width: 300px;
-    height: 60px;
+    width: auto;
+    height: auto;
     font-size: 25px;
+    padding: 2%;
     cursor: pointer;
     background-color: #333;
     color: white;
