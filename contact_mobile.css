@@ -2,58 +2,66 @@
 #contact{
     color:rgb(255, 106, 0);
   background-color: #696969;}
+  .div2, form{
+    background-color: blanchedalmond;
+
+  }
   .div2 h1{
       position: relative;
       color: black;
       font-weight: bold;
-      font-size: 200%;
+      font-size: 30px;
+      text-align: center;
       font-family: Arial, Helvetica, sans-serif;
 left: 9%;
 padding: 5% 0px 0px 10px;
   }
   form{
     position: relative;
-    left: 10%;
+    
     text-align: left ; 
-    font-size: 100%;
+    font-size: 20px;
     font-weight: normal;
-    padding: 5% 3%;
     height: 30%;
-
+    padding: 15px 15px ;
 }
 form p{
-    padding: 0px 0px 0% 0px;
+ padding: 15px 0px; 
 }
 .input ,textarea{
   width: 80%;
-  height: 5vh;
-margin: 2% 0px;    border: rgb(207, 209, 204) solid 2px;
+  height: 30px;
+margin: 5px 0px;    border: rgb(207, 209, 204) solid 2px;
 }
 textarea{
-    height: 10vh;
+    height: 60px;
 }
 
 .div4{
-  height: 180px;
+  height: 120px;
+  background-color: #333;
+  color: white;
+  padding: 15px;
 }
   .div4-{
-    position: relative;
-    width:25%;
-    margin-left: 5%;
+    width:33.33%;
+  
   
     float: left;
-    padding: 5%;
+    
     text-align: center;
+    
   }
   .div4- h3{
-    padding:20% 10% ;
+  
     font-weight: bold;
-    font-size: 120%;
+    font-size: 15px;
     }
     .div4- p{
         line-height: 1.6em ; 
-        font-size: 60%;
+        font-size: 10px;
       }
       .fa-color{
         color: white;
+        font-size: 20px;
     }

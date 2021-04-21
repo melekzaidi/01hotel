@@ -3,53 +3,62 @@
   background-color: #696969;} 
   .div2
   {
-      width: 100%;     position: relative;
+      width: 100%;    
+      position: relative;
       color:black;
-      height: 70vh;
+      height: 500px;
       background-color: blanchedalmond;
+     
   }
   .div2_1{
     position: relative;
-       width: 60%;
+       width: 100%;
        float: left;
-       padding: 1% 1%; ;
-       font-size: 80%;
+      
+       font-size: 15px;
   
    }
    .div2_1 h1{
-    padding: 5% 3%; 
+    text-align: center;
+    padding:15px ;
     font-weight: bold;
-    font-size: 175%;
+    font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
 
  }
 .div2_1 p{
-    padding: 5% 3%;
-   line-height: 1;
-    font-size: 100%;
-    font-family: Arial, Helvetica, sans-serif;
+padding: 5px 8px ;
+
+
+font-family: Arial, Helvetica, sans-serif;
     
  }
  .div2_2{
+
 position:relative;
-width: 40%;
+
 float: right;
 
  }
  img{
-    position: relative;
-    top: 5vh;
-    left: 0px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 40%;
+    
+   
     clip-path: circle();
-    height: 40vh;
-    width: 90%; 
+  
+   
   }
   .div3{
     background-image: url("mobile_img/test-bg.jpg") ;
     background-repeat:no-repeat ; 
     background-size: cover  ;
     width: 100%;
-    height: 150vh}
+    height:600px}
     .div3 h1{
         position: relative;
         text-align: center;
@@ -62,12 +71,12 @@ float: right;
     }
     .div3_1{
         background-color: blanchedalmond;
-    height: 40vh;    }
+    height: 200px;    }
     .div3_1{
         position: relative;
-        top: 0;
-        width: 90%;
-        margin: 15% 5% ;
+        height: 200px;
+        width: 80%;
+        margin: 30px;
         border-radius: 10px;
        
 
@@ -79,20 +88,23 @@ float: right;
 
     }
     .div3_1_1 img{
-        position: relative;
-        top: 2vh   ;
-        left: 10%;
-        height: 100%;
-        width: 100%;
-    }
+       
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+   width: 100%;
+   height: 100%;
+ 
+    }    
     .div3_1_2{
-        width: 60%;
+        width: 70%;
         float: right;
     }   
     .div3_1_2 p{
         position: relative;
-       padding: 5% 1% ;
+        padding: 15px 10px;
        color: #333;
        font-family: Arial, Helvetica, sans-serif;
-       font-size: 60%;
-    }
+       font-size: 10px    }
